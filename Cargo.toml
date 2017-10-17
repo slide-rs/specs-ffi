@@ -1,0 +1,8 @@
+[package]
+name = "specs-ffi"
+version = "0.1.0"
+authors = ["torkleyy <torkleyy@gmail.com>"]
+
+[dependencies]
+shred = "0.5"
+specs = "0.10"
